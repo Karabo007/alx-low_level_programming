@@ -2,7 +2,7 @@
 
 /**
  * main - print _putchar
- * code by Karabo007
+ * written by Karabo007
  * Return: 0
  */
 
