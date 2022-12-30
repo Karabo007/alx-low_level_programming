@@ -1,10 +1,11 @@
 #include "main.h"
 /**
- * mul - checks for a didgit (0 through 9).
- * @a: a - variable
- * @b: b - variable
- * Return: Always 0.
+ * mul - multiply 2 int
+ * @a: a - first int
+ * @b: b - second int
+ * Return: Addition of the multiplication
  */
+
 int mul(int a, int b)
 {
 	int mul:
